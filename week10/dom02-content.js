@@ -6,3 +6,4 @@ if (title !== null) {
 if (message !== null) {
     message.textContent = "TypeScript로 DOM을 변경합니다.";
 }
+export {};

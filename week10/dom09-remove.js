@@ -1,2 +1,5 @@
+"use strict";
 const message = document.querySelector("#message");
-message.remove();
+if (message !== null) {
+    message.remove();
+}
